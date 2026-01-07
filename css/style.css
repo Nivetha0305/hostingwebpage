@@ -336,10 +336,11 @@ body {
 }
 
 @media (max-width: 350px) {
-    .title{
+    .title {
         font-size: 10px;
     }
-    .nav-links{
+
+    .nav-links {
         font-size: 10px;
     }
 }
