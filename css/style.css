@@ -334,3 +334,12 @@ body {
         line-height: 1.6;
     }
 }
+
+@media (max-width: 350px) {
+    .title{
+        font-size: 10px;
+    }
+    .nav-links{
+        font-size: 10px;
+    }
+}
